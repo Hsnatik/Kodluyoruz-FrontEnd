@@ -12,6 +12,7 @@ Bu depo, en yaygın etiketler ve bunların nasıl kullanılacağı gibi HTML'nin
 **Ödev 2 :**
      -Ödev adı, HTML dökümanıyla kişisel sayfamızı detaylandırmaya devam etmek
      -Resim eklenme, açıklama yapılması, liste, link, block ve inline elementlerin kullanılması istenmiştir.
+     
 ---
 
 **Ödev 3 :**
@@ -21,7 +22,6 @@ Bu depo, en yaygın etiketler ve bunların nasıl kullanılacağı gibi HTML'nin
 
 ---
 
-**Bölüm Sonu Çalışması :**
+**Bölüm Sonu Çalışması :**  Semantic HTML ve Listelerin olduğu pasta tarifi paylaştığım tek sayfalı bir projedir. 
+Ödevin örneğinde CSS kullanılmıştır, ben projemde kullanmadım.
 
-    - Çalışmada, eğitim boyunca işlenilen tüm HTML konularını bir arada kullandığımız bir çalışma. 
-    - Birden fazla sayfayı (Anasayfa - Giriş - Hakkımızda - İletişim ) bir arada oluşturduğum bir proje.
