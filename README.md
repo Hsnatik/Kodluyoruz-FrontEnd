@@ -1,4 +1,4 @@
-# ** Kodluyoruz-Frontend-101-Html Ödev Ve Çalışmaları **
+# **Kodluyoruz-Frontend-101-Html Uygulama ve Çalışmaları**
 
 [patika.dev](https://app.patika.dev/moduller/html) HTML modülü kapsamındaki HTML uygulamaları. Ödevler ve alıştırmalar içerir.
 Bu depo, en yaygın etiketler ve bunların nasıl kullanılacağı gibi HTML'nin temellerinden oluşur.
