@@ -1,5 +1,5 @@
 # Merhaba,
 
-## [Patika.dev Html Ödev 3](https://app.patika.dev/moduller/html/html-odev3)
+## [Patika.dev Html Ödev 3](https://app.patika.dev/moduller/html/html-odev3) kabsamında üçüncü ödev
 
 Semantic HTML ve Listelerin olduğu pasta tarifi paylaştığım tek sayfalı bir projedir. Ödevin örneğinde CSS kullanılmıştır, ben projemde kullanmadım.
